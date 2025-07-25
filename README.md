@@ -4,7 +4,7 @@ A **responsive Simon Game** built with HTML, CSS, and JavaScript.
 
 Press any key to start, watch the sequence, and repeat it by clicking the colored buttons. Each level adds a new color to test your memory!
 
-[Play Live](https://mohammad-adeeb-11.github.io/simon-says-same/)
+[Play Live](https://Mohammad-Adeeb-11.github.io/simon-says-same/)
 
 ---
 
